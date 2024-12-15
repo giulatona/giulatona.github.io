@@ -18,16 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Giuseppe La Tona's webpage
-email: giuseppe.latona@cnr.it
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-domain: "giulatona.github.io"
-url: "https://giulatona.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  giulatona
 
 # Build settings
 #theme: jekyll-theme-minimal
@@ -86,10 +76,14 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Giuseppe La Tona's website"
+email: giuseppe.latona@cnr.it
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Giuseppe La Tona"
-description              : "TODO description"
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "giulatona.github.io"
@@ -160,12 +154,12 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
+# twitter:
+#   username               :
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -185,7 +179,7 @@ analytics:
 # Site Author
 author:
   name             : "Giuseppe La Tona"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "TODO: I am an **amazing** person."
   location         : "Palermo, Italy"
   email            : "giuseppe.latona@cnr.it"
@@ -193,21 +187,21 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Page on CNR-INM website"
+    - label: "Page at CNR-INM website"
       icon: "fas fa-fw fa-link"
       url: "https://www.inm.cnr.it/people/giuseppe-latona/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   # url: "https://twitter.com/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url: "https://facebook.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url: "https://instagram.com/"   
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/giulatona/"
