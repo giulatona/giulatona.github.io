@@ -178,9 +178,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Giuseppe La Tona"
+  name             : "Giuseppe La Tona, Ph.D."
   avatar           : "/assets/images/bio-photo.jpeg"
-  bio              : "TODO: I am an **amazing** person."
+  bio              : "I am a Researcher with the National Research Council of Italy (CNR), Institute of Marine Engineering (INM). 
+                      My research interests include the development of Energy Management Systems and of Forecasting Models."
   location         : "Palermo, Italy"
   email            : "giuseppe.latona@cnr.it"
   links:
@@ -205,6 +206,12 @@ author:
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/giulatona/"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-9097-6626"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.it/citations?hl=it&user=g1wFWrgAAAAJ"
 
 # Site Footer
 footer:
