@@ -73,12 +73,21 @@ University of Palermo, Italy
 - **H-index:** 13 (Google Scholar)
 - **Research Areas:** Energy optimization, machine learning, smart grids, shipboard electrical microgrids
 
-<!-- ### **Selected Recent Publications**
-*[Note: Replace with your actual recent publications]*
+### **Selected Recent Publications**
 
-1. **La Tona, G.**, et al. (2024). "Advanced optimization strategies for microgrid energy management." *IEEE Transactions on Industry Applications*.
+**Journal Articles (2024-2025):**
 
-2. **La Tona, G.**, et al. (2023). "Machine learning approaches for renewable energy forecasting." *Journal of Cleaner Production*. -->
+1. **La Tona, G.**, Luna, M., & Di Piazza, M. C. (2024). "Day-ahead forecasting of residential electric power consumption for energy management using Long Short-Term Memory encoder–decoder model." *Mathematics and Computers in Simulation*, 224, 63-75. [DOI: 10.1016/j.matcom.2023.06.017](https://doi.org/10.1016/j.matcom.2023.06.017)
+
+2. Fazzini, P., **La Tona, G.**, Diez, M., & Di Piazza, M. C. (2025). "Enhanced forecasting of shipboard electrical power demand using multivariate input and variational mode decomposition with mode selection." *Scientific Reports*, 15(1), 23941. [DOI: 10.1038/s41598-025-06153-z](https://doi.org/10.1038/s41598-025-06153-z)
+
+3. Fazzini, P., **La Tona, G.**, Montuori, M., Diez, M., & Di Piazza, M. C. (2025). "NCD-Pred: Forecasting Multichannel Shipboard Electrical Power Demand Using Neighborhood-Constrained VMD." *Forecasting*, 7(3), 44. [DOI: 10.3390/forecast7030044](https://doi.org/10.3390/forecast7030044)
+
+**Conference Papers (2024-2025):**
+
+4. **La Tona, G.**, Di Piazza, M. C., Accetta, A., Pucci, M., & Luna, M. (2025). "Ship Fuel Consumption Reduction Through Variable-Speed Generation Under Coordinated Control and Management Systems." In *ELECTRIMACS 2024* (pp. 659-672). Springer. [DOI: 10.1007/978-3-031-73921-7_50](https://doi.org/10.1007/978-3-031-73921-7_50)
+
+5. Misia, M., **La Tona, G.**, Sferlazza, A., Sergi, F., Brunaccini, G., Aloisio, D., & Luna, M. (2025). "An Energy Management System Capable of Microgrid Flexibility Evaluation to Support Demand Bidding." In *2025 IEEE 34th International Symposium on Industrial Electronics* (pp. 1-7). [DOI: 10.1109/ISIE62713.2025.11124767](https://doi.org/10.1109/ISIE62713.2025.11124767)
 
 ---
 

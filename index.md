@@ -12,8 +12,8 @@ I'm in the process of building a comprehensive academic website to showcase my r
 **Currently available:**
 - ✅ [About](/about/) - Complete professional background and biography
 - ✅ [Research](/research/) - Detailed research areas and current projects  
+- ✅ [Publications](/publications/) - Complete bibliography
 - ✅ [CV](/cv/) - Full curriculum vitae and professional experience
-- 🔄 Publications - Coming soon with full bibliography
 
 ---
 
