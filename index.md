@@ -15,6 +15,20 @@ I'm in the process of building a comprehensive academic website to showcase my r
 - ✅ [CV](/cv/) - Full curriculum vitae and professional experience
 - 🔄 Publications - Coming soon with full bibliography
 
+---
+
+## 📰 Latest News
+
+**October 2025**
+- 📊 **Presenting tutorial at IECON 2025** (October 14-17, Madrid, Spain) - "DL-based Forecasting of Energy-related Time Series: Tuning, Evaluation and Reproducibility" ([Info](https://iecon2025.org/wp-content/uploads/2025/09/dl-based-forecasting-of-energy-related-time-series-tuning-evaluation-and-reproducibility.pdf))
+- 🌐 Launched new academic website with comprehensive research overview
+- 🔧 Website development in progress - new sections being added regularly
+
+
+*More news and updates will be added as the site develops.*
+
+---
+
 Thank you for your patience as I continue to develop and enhance this site. For immediate inquiries, please feel free to [contact me](mailto:giuseppe.latona@cnr.it) directly.
 
 ---
