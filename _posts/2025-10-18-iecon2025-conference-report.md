@@ -30,7 +30,7 @@ header:
 
 [Add reflections on how the tutorial went]
 
-- Number of attendees: [TBD]
+- Number of attendees: ~50 (36 at 10:00 AM)
 - Engagement level: [TBD]
 - Questions and discussions: [TBD]
 - Feedback received: [TBD]
