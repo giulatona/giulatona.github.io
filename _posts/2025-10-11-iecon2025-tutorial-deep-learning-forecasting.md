@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/iecon2025-tutorial-teaser.jpg
 ---
 
-I successfully co-presented **Tutorial #4** at [IECON 2025](https://iecon2025.org/) in Madrid, Spain!
+I'm excited to announce that I'll be co-presenting **Tutorial #4** at [IECON 2025](https://iecon2025.org/) in Madrid, Spain!
 
 ## Tutorial Details
 
@@ -21,28 +21,17 @@ I successfully co-presented **Tutorial #4** at [IECON 2025](https://iecon2025.or
 - **Christoph Bergmeir** (University of Granada, Spain & Monash University, Australia) - [cbergmeir.com](https://www.cbergmeir.com)
 
 **Conference:** IECON 2025 - 51st Annual Conference of the IEEE Industrial Electronics Society  
-**Date:** October 14, 2025 | 9:30 AM - 12:30 PM (Completed)  
+**Date:** October 14, 2025 | 9:30 AM - 12:30 PM  
 **Location:** Commendador Room, Madrid, Spain
 
 ## About the Tutorial
 
-This tutorial provided an informative and dedicated training session on deep learning-based forecasting methods for energy-related time series. The session covered fundamentals and state-of-the-art techniques in:
+This tutorial provides an informative and dedicated training session on deep learning-based forecasting methods for energy-related time series. The session covers fundamentals and state-of-the-art techniques in:
 
 - 🧠 **Deep learning architectures** for time series forecasting
 - 🎯 **Hyperparameter tuning** strategies
 - 📊 **Model evaluation** methodologies
 - 🔬 **Reproducibility best practices** in energy forecasting
-
-## Tutorial Summary
-
-The tutorial was successfully completed on October 14, 2025, with excellent participation from IECON attendees. Key highlights included:
-
-- **Interactive hands-on sessions** with Jupyter notebooks covering real-world energy forecasting scenarios
-- **Live demonstrations** of hyperparameter tuning strategies for deep learning models
-- **Q&A discussions** on reproducibility challenges in energy forecasting research
-- **Practical insights** shared by attendees from various industrial and academic backgrounds
-
-*Thank you to all participants for the engaging discussions and insightful questions!*
 
 ## Hands-On Notebooks
 
@@ -69,7 +58,7 @@ All tutorial materials, including code, notebooks, and datasets, are available o
 
 **Download:** [📥 PDF slides](/assets/slides/iecon2025-tutorial.pdf)
 
-*All tutorial materials, including code, notebooks, and additional resources, are available on the [tutorial GitHub repository](https://github.com/giulatona/iecon2025_tutorial)*
+*Interactive version available on the [tutorial GitHub repository](https://github.com/giulatona/iecon2025_tutorial)*
 
 ## Technical Stack
 
