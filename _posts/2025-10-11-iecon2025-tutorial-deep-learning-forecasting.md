@@ -55,15 +55,10 @@ All tutorial materials, including code, notebooks, and datasets, are available o
 🔗 **[GitHub Repository: iecon2025_tutorial](https://github.com/giulatona/iecon2025_tutorial)**
 
 ### 📊 Presentation Slides
-*Slides will be made available after the tutorial session.*
 
-<!-- Uncomment and update after uploading slides
-### 📊 Presentation Slides
+**Download:** [📥 PDF slides](/assets/slides/iecon2025-tutorial.pdf)
 
-<iframe src="https://docs.google.com/presentation/d/e/YOUR_PRESENTATION_ID/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-Or download: [PDF slides](/assets/slides/iecon2025-tutorial.pdf)
--->
+*Interactive version available on the [tutorial GitHub repository](https://github.com/giulatona/iecon2025_tutorial)*
 
 ## Technical Stack
 
