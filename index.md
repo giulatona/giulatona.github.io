@@ -17,6 +17,9 @@ I am a Researcher with the **National Research Council of Italy (CNR)**, Institu
 
 ## 📰 Latest News
 
+**February 2026**
+- 📢 **Electrimacs 2026 Paper Submission Deadline Extended** - In response to numerous requests from prospective authors, the Organizing Committee has announced a further extension. The new submission deadline is **February 14, 2026**. Please note that no further extensions beyond this date will be possible. ([Website](https://electrimacs2026.org))
+
 **October 2025**
 - 📊 **Presenting tutorial at IECON 2025** (October 14-17, Madrid, Spain) - "DL-based Forecasting of Energy-related Time Series: Tuning, Evaluation and Reproducibility" ([Info](https://iecon2025.org/wp-content/uploads/2025/09/dl-based-forecasting-of-energy-related-time-series-tuning-evaluation-and-reproducibility.pdf))
 
