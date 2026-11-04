@@ -59,6 +59,8 @@ exclude:
   - .gitignore
   - Gemfile
   - Gemfile.lock
+  - scripts/
+  - my_publications.bib
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
