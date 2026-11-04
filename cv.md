@@ -3,6 +3,7 @@ layout: single
 title: CV & Resume
 permalink: /cv/
 author_profile: true
+excerpt: "Curriculum vitae of Giuseppe La Tona, Senior Member IEEE, listing education, professional experience, publications, and research expertise in optimization and machine learning."
 ---
 
 ## Giuseppe La Tona, Ph.D.

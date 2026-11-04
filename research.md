@@ -3,6 +3,7 @@ layout: single
 title: Research
 permalink: /research/
 author_profile: true
+excerpt: "Research interests in optimization algorithms and machine learning for energy management systems, including smart buildings, microgrids, and renewable energy forecasting."
 ---
 
 ## Research Overview

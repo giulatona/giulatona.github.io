@@ -3,6 +3,7 @@ layout: single
 title: Publications
 permalink: /publications/
 author_profile: true
+excerpt: "Complete bibliography of 40+ peer-reviewed journal and conference papers on optimization, machine learning, energy systems, and sustainable engineering by Giuseppe La Tona."
 published: true
 ---
 

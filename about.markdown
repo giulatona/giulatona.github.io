@@ -1,8 +1,9 @@
 ---
 layout: single
-author_profile: true
 title: About
 permalink: /about/
+author_profile: true
+excerpt: "Professional background, research interests, and academic experience of Giuseppe La Tona, Ph.D., researcher at CNR-INM specializing in optimization and machine learning for energy systems."
 ---
 
 <figure class="align-center">

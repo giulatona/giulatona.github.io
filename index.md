@@ -1,6 +1,8 @@
 ---
 layout: home
 author_profile: true
+title: Giuseppe La Tona - Researcher at CNR-INM
+description: "Academic website of Giuseppe La Tona, Ph.D., researcher at the Italian National Research Council (CNR) specializing in optimization and machine learning for energy management systems."
 ---
 
 ## Welcome to Giuseppe La Tona's Website
