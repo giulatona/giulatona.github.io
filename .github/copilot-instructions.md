@@ -46,7 +46,7 @@ bundle exec jekyll serve --livereload
 - **Academic Profile**: Edit `author` section in `_config.yml` for bio, links, and profile image
 - **Site Metadata**: Update `title`, `description`, `url` in `_config.yml`
 - **Navigation**: Modify `_data/navigation.yml` to add/remove menu items
-- **News Updates**: Edit `index.md` for latest news section
+- **News Updates**: Add an item at the top of `_data/news.yml` (`date`, `icon`, `title`, optional `text`, `link`, `link_label`). The homepage shows the last 12 months via `_includes/news-list.html`; `/news/` (`news.md`) lists all items. Don't hand-edit news in `index.md`
 - **Academic Content**: Uses figure elements with captions for images (see `about.markdown` for pattern)
 - **Publications**: Generated from `my_publications.bib` (see below); never hand-edit the generated block in `publications.md`
 
@@ -73,7 +73,7 @@ python3 scripts/update_publications.py --check  # exit 1 if page is out of date
 ### Academic Content Structure
 - Use `layout: single` with `author_profile: true` for main content pages
 - Include `permalink` for clean URLs (e.g., `/about/`, `/research/`)
-- News updates go in `index.md` with construction notice pattern
+- News updates go in `_data/news.yml` (rendered on `index.md` and `/news/`)
 
 ### Profile Configuration
 The site heavily relies on the `author` section in `_config.yml`:
@@ -108,7 +108,7 @@ The site heavily relies on the `author` section in `_config.yml`:
 ## Common Tasks
 - **Adding new pages**: Create markdown file with proper frontmatter, add to navigation.yml
 - **Updating profile**: Modify `author` section in `_config.yml`
-- **News updates**: Edit latest news section in `index.md`
+- **News updates**: Add an entry to `_data/news.yml`
 - **Theme updates**: Update version in `remote_theme` line in `_config.yml`
 
 ## Blog & Tutorial Content Structure
@@ -181,7 +181,7 @@ excerpt: "[Brief summary for preview]"
 - Ongoing research areas and projects
 - Permanent academic biography
 
-**Update `index.md` Latest News for:**
+**Add an entry to `_data/news.yml` (homepage Latest News) for:**
 - Significant achievements (paper accepted, promotion, award)
 - Major conference participations
 - Deadline extensions or call announcements
@@ -308,7 +308,7 @@ Lunr.js indexes all content for site-wide search:
 |---------|------|--------------|
 | Site title, author bio, social links | `_config.yml` | `title`, `author` section |
 | Main navigation menu | `_data/navigation.yml` | `main:` array |
-| Homepage & latest news | `index.md` | Latest news section in body |
+| Homepage & latest news | `_data/news.yml` | Add item at top; homepage shows last 12 months, `/news/` shows all |
 | Main content pages | `about.markdown`, `research.md`, etc. | Page body content, permalink |
 | Blog posts | `_posts/YYYY-MM-DD-slug.md` | Create new file with date prefix |
 | Publications list | `my_publications.bib` | Edit bib, then run `scripts/update_publications.py` |
@@ -318,7 +318,7 @@ Lunr.js indexes all content for site-wide search:
 ## Updating the Site
 
 ### Typical Update Frequency
-- **Homepage news** (`index.md`): Updated monthly or for major announcements
+- **Homepage news** (`_data/news.yml`): Updated monthly or for major announcements
 - **Publications** (`publications.md`): Regenerated from `my_publications.bib` when papers are published/accepted
 - **Research** (`research.md`): Updated when starting new projects or pivots
 - **About** (`about.markdown`): Rarely changed; static biographical content

@@ -1,0 +1,21 @@
+{%- comment -%}
+  Renders _data/news.yml grouped by month, newest first.
+  Parameter: recent=true limits to the last 12 months.
+{%- endcomment -%}
+{%- assign cutoff = site.time | date: "%s" | minus: 31536000 -%}
+{%- assign last_month = "" -%}
+{%- assign shown = 0 -%}
+{%- assign items = site.data.news | sort: "date" | reverse -%}
+{%- for n in items -%}
+{%- assign ts = n.date | date: "%s" | plus: 0 -%}
+{%- if include.recent and ts < cutoff -%}{%- continue -%}{%- endif -%}
+{%- assign shown = shown | plus: 1 -%}
+{%- assign month = n.date | date: "%B %Y" %}
+{% if month != last_month %}
+**{{ month }}**
+{% assign last_month = month %}{% endif %}
+- {{ n.icon }} **{{ n.title }}**{% if n.text %} - {{ n.text }}{% endif %}{% if n.link %} ([{{ n.link_label | default: "Link" }}]({{ n.link }})){% endif %}
+{%- endfor %}
+{% if shown == 0 %}
+*No news in the last 12 months.*
+{% endif %}

@@ -19,16 +19,9 @@ I am a Researcher with the **National Research Council of Italy (CNR)**, Institu
 
 ## 📰 Latest News
 
-**February 2026**
-- 📢 **Electrimacs 2026 Paper Submission Deadline Extended** - In response to numerous requests from prospective authors, the Organizing Committee has announced a further extension. The new submission deadline is **February 14, 2026**. Please note that no further extensions beyond this date will be possible. ([Website](https://electrimacs2026.org))
+{% include news-list.html recent=true %}
 
-**October 2025**
-- 📊 **Presenting tutorial at IECON 2025** (October 14-17, Madrid, Spain) - "DL-based Forecasting of Energy-related Time Series: Tuning, Evaluation and Reproducibility" ([Info](https://iecon2025.org/wp-content/uploads/2025/09/dl-based-forecasting-of-energy-related-time-series-tuning-evaluation-and-reproducibility.pdf))
-
-**September 2025**
-- 📖 **Paper Featured on Journal Cover** - Co-authored paper "NCD-Pred: Forecasting Multichannel Shipboard Electrical Power Demand Using Neighborhood-Constrained VMD" selected for the cover of Forecasting journal, Volume 7, Issue 3 ([View Cover](https://www.mdpi.com/2571-9394/7/3))
-- 🏛️ **Track Chair for Electrimacs 2026** - Serving as Track Chair for Technical Track 4: "Numerical and Data-driven Methods, Machine Learning" at the International Conference on Electrical Machines, Drives and Power Systems (May 18-21, 2026, Palermo, Italy) ([Website](https://electrimacs2026.org))
-
+[All news →](/news/)
 
 ---
 

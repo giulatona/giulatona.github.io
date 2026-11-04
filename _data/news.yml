@@ -1,0 +1,30 @@
+# News items, newest first. Add new entries at the top.
+# The homepage shows the last 12 months; /news/ shows everything.
+# Fields: date (YYYY-MM-DD), icon, title, text (optional, Markdown), link and link_label (optional).
+- date: 2026-02-10
+  icon: "📢"
+  title: "Electrimacs 2026 Paper Submission Deadline Extended"
+  text: "In response to numerous requests from prospective authors, the Organizing Committee has announced a further extension. The new submission deadline is **February 14, 2026**. Please note that no further extensions beyond this date will be possible."
+  link: https://electrimacs2026.org
+  link_label: Website
+
+- date: 2025-10-14
+  icon: "📊"
+  title: "Presenting tutorial at IECON 2025"
+  text: "(October 14-17, Madrid, Spain) \"DL-based Forecasting of Energy-related Time Series: Tuning, Evaluation and Reproducibility\""
+  link: https://iecon2025.org/wp-content/uploads/2025/09/dl-based-forecasting-of-energy-related-time-series-tuning-evaluation-and-reproducibility.pdf
+  link_label: Info
+
+- date: 2025-09-20
+  icon: "📖"
+  title: "Paper Featured on Journal Cover"
+  text: "Co-authored paper \"NCD-Pred: Forecasting Multichannel Shipboard Electrical Power Demand Using Neighborhood-Constrained VMD\" selected for the cover of Forecasting journal, Volume 7, Issue 3"
+  link: https://www.mdpi.com/2571-9394/7/3
+  link_label: View Cover
+
+- date: 2025-09-10
+  icon: "🏛️"
+  title: "Track Chair for Electrimacs 2026"
+  text: "Serving as Track Chair for Technical Track 4: \"Numerical and Data-driven Methods, Machine Learning\" at the International Conference on Electrical Machines, Drives and Power Systems (May 18-21, 2026, Palermo, Italy)"
+  link: https://electrimacs2026.org
+  link_label: Website
