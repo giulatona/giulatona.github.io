@@ -1,6 +1,13 @@
 # News items, newest first. Add new entries at the top.
 # The homepage shows the last 12 months; /news/ shows everything.
 # Fields: date (YYYY-MM-DD), icon, title, text (optional, Markdown), link and link_label (optional).
+- date: 2026-10-07
+  icon: "🏛️"
+  title: "Joined IEEE IES Technical Committee on Industrial Informatics"
+  text: "On October 7, 2026, I joined the IEEE Industrial Electronics Society's (IES) Technical Committee on Industrial Informatics (TC-II)."
+  link: https://tcii.ieee-ies.org/index.html
+  link_label: Committee Website
+
 - date: 2026-02-10
   icon: "📢"
   title: "Electrimacs 2026 Paper Submission Deadline Extended"
